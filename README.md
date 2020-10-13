@@ -4,7 +4,7 @@
 		<title> Registration form </title>
 	</head>
 	<body>
-		<form method="POST">                                                 <!--initializing form tag-->
+		<form method="GET">                                                 <!--initializing form tag-->
             <h3>First Name : <input type="text" name="firstname"></h3><br>   <!--first name input element of type text in h3 size and break-->
 
             <h3>Last Name : <input type="text" name="lastname"></h3><br>     <!--last name input element of type text in h3 size and break-->
